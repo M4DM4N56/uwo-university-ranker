@@ -1,6 +1,4 @@
-# uwo-university-ranker
-
-This is a Western University project.
+This is a first year Western University project.
 
 This project computes information from CSV files regarding each continent's countries, and each country's capital, and an international ranking of the top 100 univesities.
 
